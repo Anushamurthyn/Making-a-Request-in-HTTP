@@ -1,0 +1,32 @@
+[
+    {
+      "image": "/products/img1.jpg",
+      "title": "mCaffeine body scrub",
+      "description": "mCaffeine body scrub.",
+      "price": "449"
+    },
+    {
+        "image": "/products/img2.jpg",
+        "title": "SUGANDA Body Lotion",
+        "description": "improve the appearance of textured skin, brighten, & even out skin tone by removing dead skin cells from the surface revealing youthful skin, also helps tackle strawberry leg.",
+        "price": "559"
+      },
+      {
+        "image": "/products/img3.jpg",
+        "title": "Lip Balm",
+        "description": "moisturized and avoid cracked lips. ",
+        "price": "200"
+      },
+      {
+        "image": "/products/img4.jpg",
+        "title": "AVOCADO infused sheeet mask",
+        "description": "helps to hydrate and moisturize skin.",
+        "price": "150"
+      },
+      {
+        "image": "/products/img5.jpg",
+        "title": "Glossier",
+        "description": "milky jelly cleanser, conditioning face wash",
+        "price": "450"
+      }
+]
